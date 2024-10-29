@@ -1,0 +1,111 @@
+body {
+    background-color: #ffffff;
+    background-image: url(background.png);
+    background-size: 400px 400px;
+    background-repeat: repeat;
+}
+.center {
+    text-align: center;
+    margin: auto;
+    width: 60%;
+    background-color: white;
+    border: 2px dashed #dfabf9;
+    border-radius: 75px;
+    padding: 10px;
+}
+
+h1 {
+    font-family: cursive;
+    color: #ec7cc8;
+    background-color: #ffdbf6;
+    margin: auto;
+    width: 60%;
+}
+
+h2 {
+    font-family: cursive;
+    color: #ec7cc8;
+    background-color: #ffdbf6;
+    margin: auto;
+    width: 30%;
+}
+
+h3 {
+    font-family: cursive;
+    color: #ec7cc8;
+    background-color: #ffdbf6;
+    margin: auto;
+    width: 30%;
+}
+
+h4 {
+    font-family: cursive;
+    color: #ec7cc8;
+    background-color: #ffdbf6;
+    margin: auto;
+    width: 20%;
+}
+
+
+p {
+    font-family: sans-serif;
+    line-height: 1.5;
+}
+
+img {
+    width: auto;
+    height: auto;
+}
+
+#list {
+    font-family: sans-serif;
+    margin: 50px;
+    text-align: left;
+    width: auto;
+    height: auto;
+}
+
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+      margin-left: auto;
+  margin-right: auto;
+    border-radius: 10px;
+    
+}
+th, td {
+  background-color: #fee5f4;
+}
+
+ol {
+    font-family: sans-serif;
+    margin: 50px;
+    text-align: left;
+    width: auto;
+    height: auto;
+}
+
+ul {
+    font-family: sans-serif;
+    list-style-position: inside;
+    line-height: 1.5;
+    text-align: center;
+    padding: 0px;
+}
+
+#center {
+  text-align: center;
+    
+}
+
+#navi {
+    margin: auto;
+    width: 10px;
+}
+
+.copy {
+    text-align: center;
+    margin: auto;
+    width: 10%;
+    
+}
